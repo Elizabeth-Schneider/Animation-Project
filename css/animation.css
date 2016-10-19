@@ -68,7 +68,7 @@ h3 {
 }
 
 @-webkit-keyframes ca_move {
-	0% { left:0px;}
+	0% { right:0px;}
 	100% { right:-547px;}
 }
 
@@ -85,7 +85,7 @@ h3 {
 }
 
 @-webkit-keyframes cb_move {
-	0% { right:0px;}
+	0% { left:0px;}
 	100% { left:-530px;}
 }
 
