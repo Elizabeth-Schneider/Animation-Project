@@ -94,7 +94,7 @@ h3 {
 	color: black;
 	width:370px;
 	position:relative;
-	margin-left:160px;
+	margin-left:170px;
 	z-index: 3;
 	background-color:white;
 	padding-left: 10px;
@@ -150,7 +150,7 @@ h3 {
 	position:relative;
 	width: 50px;
 	top:-4px;
-	left:210px;
+	left:230px;
 	-webkit-animation: b_swing 1s alternate infinite;
 	z-index: 2;
 }
