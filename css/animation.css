@@ -150,7 +150,7 @@ h3 {
 	position:relative;
 	width: 50px;
 	top:-4px;
-	left:230px;
+	left:260px;
 	-webkit-animation: b_swing 1s alternate infinite;
 	z-index: 2;
 }
@@ -165,7 +165,7 @@ h3 {
 	position:relative;
 	width:50px;
 	top:-4px;
-	left:190px;
+	left:220px;
 	-webkit-animation: c_swing 1s alternate infinite;
 	z-index: 1;
 }
@@ -177,7 +177,7 @@ h3 {
 
 #d {
 	position:relative;
-	left:700px;
+	left:730px;
 	top:-118px;
 	width:50px;
 	z-index: 2;
@@ -192,7 +192,7 @@ h3 {
 
 #e {
 	position:relative;
-	left:800px;
+	left:830px;
 	top:-128px;
 	width:50px;
 	z-index: 2;
@@ -206,7 +206,7 @@ h3 {
 
 #f {
 	position:relative;
-	left:900px;
+	left:930px;
 	top:-133px;
 	width:50px;
 	z-index: 2;
@@ -221,7 +221,7 @@ h3 {
 
 #g {
 	position:relative;
-	left:740px;
+	left:770px;
 	top:-130px;
 	width:50px;
 	z-index: 2;
@@ -235,14 +235,14 @@ h3 {
 
 #h {
 	position:relative;
-	left:840px;
+	left:870px;
 	top:-98px;
 	z-index: 2;
 }
 
 #i {
 	position:relative;
-	left:570px;
+	left:600px;
 	top:-130px;
 	z-index: 2;
 		overflow:none;
@@ -251,7 +251,7 @@ h3 {
 #j {
 	position:relative;
 	display:inline;
-	left:640px;
+	left:670px;
 	top:-93px;
 	z-index: 2;
 		overflow:none;
@@ -260,7 +260,7 @@ h3 {
 #k {
 	position:relative;
 	display:inline;
-	left:560px;
+	left:590px;
 	top:0px;
 	z-index: 2;
 }
@@ -268,7 +268,7 @@ h3 {
 #l {
 	position:relative;
 	display:inline;
-	left:800px;
+	left:830px;
 	top:-100px;
 	z-index: 2;
 }
@@ -276,7 +276,7 @@ h3 {
 #m {
 	position:relative;
 	display:inline;
-	left:460px;
+	left:490px;
 	top:105px;
 	z-index: 2;
 }
@@ -284,7 +284,7 @@ h3 {
 #n {
 	position:relative;
 	width:50px;
-	left:730px;
+	left:760px;
 	top:73px;
 	z-index: 2;
 	-webkit-animation: o_swing 1s alternate infinite;
@@ -299,7 +299,7 @@ h3 {
 #o {
 	position:relative;
 	display:inline;
-	left:700px;
+	left:730px;
 	top:-100px;
 	z-index: 2;
 }
