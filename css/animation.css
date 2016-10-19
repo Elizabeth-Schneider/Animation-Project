@@ -17,7 +17,7 @@ html,body {
 	font-size: 84px;
 	font-family: 'Slabo', serif;
 	font-weight: bold;
-	margin-left:140px;
+	margin-left:160px;
 	margin-top:-527px;
 	z-index:2;
 	position:relative;
@@ -29,7 +29,7 @@ h2 {
 	font-size:60px;
 	padding-top: 20px;
 	margin-top:-100px;
-	margin-left:140px;
+	margin-left:160px;
 	z-index:9;
 	position:relative;
 }
@@ -38,7 +38,7 @@ h3 {
 	font-size:48px;
 	font-family: 'Slabo', serif;
 	margin-top:-103px;
-	margin-left:140px;
+	margin-left:160px;
 	z-index:3;
 	position:relative;
 	letter-spacing: 6px;
@@ -86,7 +86,7 @@ h3 {
 
 @-webkit-keyframes cb_move {
 	0% { left:0px;}
-	100% { left:-530px;}
+	100% { left:-555px;}
 }
 
 .text {
@@ -94,7 +94,7 @@ h3 {
 	color: black;
 	width:370px;
 	position:relative;
-	margin-left:130px;
+	margin-left:150px;
 	z-index: 3;
 	background-color:white;
 	padding-left: 10px;
@@ -145,7 +145,6 @@ h3 {
 	0% { left:900px; right:300px;}
 
 }
-'top:400px;'  bottom:0px;
 
 #b {
 	position:relative;
@@ -153,7 +152,7 @@ h3 {
 	top:-4px;
 	left:230px;
 	-webkit-animation: b_swing 1s alternate infinite;
-	z-index: 2;
+	z-index: 5;
 }
 
 @-webkit-keyframes b_swing {
@@ -277,7 +276,7 @@ h3 {
 #m {
 	position:relative;
 	display:inline;
-	left:440px;
+	left:460px;
 	top:105px;
 	z-index: 2;
 }
