@@ -18,7 +18,7 @@ html,body {
 	font-family: 'Slabo', serif;
 	font-weight: bold;
 	margin-left:180px;
-	margin-top:-400px;
+	margin-top:-500px;
 	z-index:2;
 	position:relative;
 }
@@ -36,7 +36,7 @@ h2 {
 h3 {
 	font-size:48px;
 	font-family: 'Slabo', serif;
-	margin-top:-203px;
+	margin-top:-103px;
 	margin-left:180px;
 	z-index:3;
 	position:relative;
